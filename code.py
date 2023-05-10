@@ -49,7 +49,7 @@ st.sidebar.markdown('---')
 st.sidebar.write('Pallerla Bharath Kumar|\n \n pallerlabharath09@gmail.com \n https://github.com/PallerlaBharathKumar')
 if app_mode =='About App':
 
-    st.markdown("<h1 style='text-align: center; color: skyblue; '>Azure Application </h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: skyblue; '>Detection and Translation </h1>", unsafe_allow_html=True)
     st.markdown('In this application we are using **Microsoft Azure APIS** for creating a Translator,Face API . **StreamLit** is to create the Web Graphical User Interface (GUI) ')
     st.markdown(
     """
