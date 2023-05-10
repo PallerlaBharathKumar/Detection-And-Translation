@@ -46,7 +46,7 @@ app_mode = st.sidebar.radio(
 st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
 
 st.sidebar.markdown('---')
-st.sidebar.write('Pallerla Bharath Kumar|\n pallerlabharath09@gmail.com \n https://github.com/PallerlaBharathKumar')
+st.sidebar.write('Pallerla Bharath Kumar|\n \n pallerlabharath09@gmail.com \n https://github.com/PallerlaBharathKumar')
 if app_mode =='About App':
 
     st.markdown("<h1 style='text-align: center; color: skyblue; '>Azure Application </h1>", unsafe_allow_html=True)
