@@ -46,7 +46,7 @@ app_mode = st.sidebar.radio(
 st.write('<style>div.row-widget.stRadio > div{flex-direction:row;}</style>', unsafe_allow_html=True)
 
 st.sidebar.markdown('---')
-st.sidebar.write('Pallerla Bharath Kumar|\n pallerlabharath09@gmail.com https://github.com/neerajpokala143')
+st.sidebar.write('Pallerla Bharath Kumar|\n pallerlabharath09@gmail.com https://github.com/PallerlaBharathKumar')
 if app_mode =='About App':
 
     st.markdown("<h1 style='text-align: center; color: skyblue; '>Azure Application </h1>", unsafe_allow_html=True)
@@ -69,15 +69,15 @@ if app_mode =='About App':
 
     st.markdown('''
               # About Me \n 
-                Hey this is ** Neeraj Pokala **. \n
+                Hey this is ** Pallerla Bharath Kumar **. \n
                 
                 
                 Also check me out on Social Media
-                - [git-Hub](https://github.com/neerajpokala143)
-                - [LinkedIn](https://www.linkedin.com/in/neeraj-pokala-b76b60199)
-                - [Instagram](https://instagram.com/neer_aj.p?utm_medium=copy_link)\n
+                - [git-Hub](https://github.com/PallerlaBharathKumar)
+                - [LinkedIn](https://www.linkedin.com/in/pallerla-bharath-kumar-08a888212)
+                - [Instagram](https://instagram.com/im.bharath__?igshid=ZGUzMzM3NWJiOQ==)\n
                 If you are interested in building more about Microsoft Azure then   [click here](https://azure.microsoft.com/en-in/)\n
-                For any Troubleshooting and Further UI development feel free to DM me at --- neerajpokala143@gmail.com
+                For any Troubleshooting and Further UI development feel free to DM me at --- pallerlabharath09@gmail.com
                 ''')
 
 
